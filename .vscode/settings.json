@@ -1,3 +1,8 @@
 {
-    "python.pythonPath": "C:\\Skaret\\Python\\python.exe"
+    "python.pythonPath": "C:\\Skaret\\Python\\python.exe",
+    "code-runner.executorMap": {
+        "python": "c:\\skaret\\python\\python.exe"
+    },
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.showExecutionMessage": false,
 }
